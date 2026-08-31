@@ -1,5 +1,5 @@
 # Pull-Based AI Intelligence Digest（日本語版）
-
+![AI Intelligence Dashboard](./screenshot.png)
 **言語: [English](./README.md) · 日本語**
 
 > 1つの Claude Project の中だけで完結する、ステートフルな「AIニュース＋スタートアップ投資アナリスト」。バックエンドも、データベースも、常駐ジョブもない。記憶はバージョン管理された1つの状態ファイルに宿り、規律ある「State Loop（状態ループ）」が、あるセッションの学習を次のセッションへ運ぶ。
