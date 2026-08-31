@@ -1,5 +1,5 @@
 # Pull-Based AI Intelligence Digest
-<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/ca71953e-c63a-436f-8d3c-b38fc07257d4" />
+![dashboard](./screenshot.png)
 
 **Languages: English · [日本語](./README.ja.md)**
 
